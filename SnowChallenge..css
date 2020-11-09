@@ -1,0 +1,54 @@
+
+body{
+    background-color: #a4c3ff;
+}
+
+
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-style: solid;
+    border-color: #ff9876;
+    border-radius:15px 15px 15px 15px;
+
+
+}
+
+
+
+
+
+#boks {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    border-style: groove;
+    border-color: firebrick;
+    background-color: #fff6c2;
+    border-radius: 15px 50px 30px 5px;
+
+}
+a{
+    font-family: "Bodoni MT";
+    font-size: larger;
+
+}
+a:hover{
+    border-style: solid;
+    border-color: antiquewhite;
+
+}
+
+p{
+    text-align: center;
+
+}
+
+a{
+
+}
